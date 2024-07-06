@@ -13,7 +13,7 @@ class FirstProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("test case executing   new  new ");
+		logger.info("test case executing  for jenkinsS  new ");
 		assertEquals(true, true);
 	}
 
